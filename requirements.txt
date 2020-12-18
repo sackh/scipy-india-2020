@@ -1,0 +1,4 @@
+ipyleaflet
+jupyterlab
+pandas
+geopandas
