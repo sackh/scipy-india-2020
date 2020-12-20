@@ -5,8 +5,8 @@ This repo is for conference talk presented at https://scipy.in/2020
 
 
 ## Sources:
-Most of the examples in this repo are taken from examples of `ipyleaflet` repo: https://github.com/jupyter-widgets/ipyleaflet/tree/master/examples
-and some from the below articles:
+Most of the examples in this repo are taken from below sources: 
 
+- https://github.com/jupyter-widgets/ipyleaflet/tree/master/examples
 - https://blog.jupyter.org/interactive-gis-in-jupyter-with-ipyleaflet-52f9657fa7a
 - https://towardsdatascience.com/ipyleaflet-interactive-mapping-in-jupyter-notebook-994f19611e79
